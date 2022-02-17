@@ -10,3 +10,6 @@ As we can see all other online delivery apps deliver only goods from the retaile
 
 # Screenshots
 ![Screenshot (97)](https://user-images.githubusercontent.com/69297015/154542108-2da19122-25b6-4e28-be2a-637b65ac2dcf.png)
+
+![Screenshot (95)](https://user-images.githubusercontent.com/69297015/154542450-5cdf1334-334a-4f1d-a6df-94e854a2a878.png)
+
