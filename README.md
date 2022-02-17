@@ -6,4 +6,7 @@ Our problem statement arose with a question “What if ?”. Let us consider thi
 As we can see all other online delivery apps deliver only goods from the retailers. But what will a person do if he/she needs to deliver the items to his/her relatives/friends/colleagues/neighbours who live within their locality considering the factors like the person’s age, inability to drive, reaching on time and also to save time.
 
 
+
+
+# Screenshots
 ![Screenshot (97)](https://user-images.githubusercontent.com/69297015/154542108-2da19122-25b6-4e28-be2a-637b65ac2dcf.png)
